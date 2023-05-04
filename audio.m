@@ -15,4 +15,3 @@ F = 1./t;
 nfft=fft(y);
 subplot(2,1,2)
 plot(F,y)
-%ezyk
